@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoj_doc=self.webpackChunkcoj_doc||[]).push([[504],{3603:function(e){e.exports=JSON.parse('{"specUrl":"https://staging.caribbeanonlinejudge.org/api/swagger/v1/swagger.yaml","type":"url","content":"https://staging.caribbeanonlinejudge.org/api/swagger/v1/swagger.yaml"}')}}]);
