@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcoj_doc=self.webpackChunkcoj_doc||[]).push([[956],{684:function(e){e.exports=JSON.parse('{"specUrl":"http://localhost:5002/swagger/v1/swagger.yaml","type":"url","content":"http://localhost:5002/swagger/v1/swagger.yaml"}')}}]);
